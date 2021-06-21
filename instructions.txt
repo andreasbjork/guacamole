@@ -1,6 +1,8 @@
+instructions:
 chop avocados
 chop onions
 squeeze lime
 add salt
 add pepper
 and mix well
+enjoy!
